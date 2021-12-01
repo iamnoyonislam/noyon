@@ -1,0 +1,155 @@
+body{}
+.allpart{
+    width: 1259px;
+    background: skyblue;
+    margin: 0 auto;
+}
+.header{
+    display: inline-flex;
+}
+.logo{}
+.logo h1{
+    background: black;
+    color: #fff;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 15px;
+}
+.menu{}
+.menu nav{}
+.menu nav ul{
+    margin-top: 29px;
+margin-left: 588px;
+}
+.menu nav ul li{
+    display: inline;
+}
+.menu nav ul li a{
+    background: black;
+color: #fff;
+padding: 10px;
+text-decoration: none;
+text-transform: capitalize;
+}
+.menu nav ul li a:hover{}
+.banner{
+    background: orange;
+    text-align: center;
+    padding: 80px 0px;
+}
+.bannerContent{
+    background: #0000001c;
+    width: 556px;
+    margin-left: 337px;
+    box-shadow: 4px 7px 11px black;
+
+}
+.bannerContent h1{
+    font-size: 50px;
+text-transform: capitalize;
+margin-bottom: -11px;
+}
+.bannerContent p{}
+.bannerContent button{
+    background: black;
+color: #fff;
+border: none;
+padding: 10px;
+width: 210px;
+border-radius: 10px;
+margin-bottom: 14px;
+text-transform: capitalize;
+}
+
+.bannerContent button:hover{
+    background: red;
+    transition: 2s;
+}
+.baka{}
+.baka h1{
+    background: green;
+    display: inline-block;
+    padding: 10px;
+    color: #fff;
+}
+
+.baka h2{
+    background: red;
+display: inline;
+padding: 15px;
+}
+
+.baka h1:hover{
+    text-shadow: 470px 0px 3px black;
+    transition: 3s;
+}
+.baka h2:hover{
+    padding-right: 162px;
+    transition: 5s;
+    background: orange;
+}
+.bestProduct{
+    width: 100%;
+    display: inline-flex;
+}
+.left{
+    width: 50%;
+}
+.left img{
+    width: 100%;
+}
+.right{
+    width: 50%;
+    background: purple;
+    text-align: center;
+}
+.right h1{}
+.right p{}
+.right button{}
+.service{
+    display: inline-flex;
+    padding: 50px 0px;
+}
+.serviceOne{
+    width: 300px;
+    background: tomato;
+    text-align: center;
+    margin-right: 19px;
+}
+.serviceOne img{
+    width: 100%;
+}
+.serviceOne h1{}
+.serviceOne p{}
+.serviceOne button{}
+.team{
+    display: inline-flex;
+}
+.teamMember{
+    width: 300px;
+    background: tomato;
+    text-align: center;
+    margin-right: 19px;
+}
+.teamMember img{
+    width: 100%;
+}
+.teamMember h1{}
+.teamMember p{}
+.teamMember button{}
+.address{}
+.addressPart{}
+.copywrite{
+    text-align: center;
+}
+.copywrite p{}
+.copywrite p a{}
+
+
+.agun{
+    font-size: 100px;
+background: url(../images/one.jpg);
+    background-clip: border-box;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
